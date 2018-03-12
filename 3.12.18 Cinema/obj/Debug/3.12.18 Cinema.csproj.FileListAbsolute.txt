@@ -1,0 +1,11 @@
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\bin\Debug\3.12.18 Cinema.exe.config
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\bin\Debug\3.12.18 Cinema.exe
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\bin\Debug\3.12.18 Cinema.pdb
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\3.12.18 Cinema.csprojResolveAssemblyReference.cache
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\_3._12._18_Cinema.Form1.resources
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\_3._12._18_Cinema.Form2.resources
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\_3._12._18_Cinema.Properties.Resources.resources
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\3.12.18 Cinema.csproj.GenerateResource.Cache
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\3.12.18 Cinema.csproj.CoreCompileInputs.cache
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\3.12.18 Cinema.exe
+C:\Users\P305\source\repos\3.12.18 Cinema\3.12.18 Cinema\obj\Debug\3.12.18 Cinema.pdb
